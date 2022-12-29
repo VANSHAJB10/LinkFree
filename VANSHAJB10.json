@@ -1,0 +1,15 @@
+{
+  "name": "Vanshaj Bajaj",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Content writer turned  **Open source contributor**. Travel enthusiast Creative writer, Landing Page designer",
+  "avatar": "https://github.com/VANSHAJB10.png",
+}
+
+"links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/V10027",
+      "icon": "FaTwitter"
+    }
+  ]
